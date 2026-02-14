@@ -1,6 +1,7 @@
 # WellnessMate – Bilingual Health Companion
 
 A clean and professional Streamlit application that provides bilingual health and wellness guidance in English and Telugu.
+https://wellnessmate-by-nareshtene.streamlit.app/ 
 
 ## Features
 
@@ -59,4 +60,5 @@ This application provides general health information only and should not replace
 ## License
 
 © 2024 WellnessMate. All rights reserved.
+
 
