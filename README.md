@@ -46,6 +46,12 @@ The app will open in your default web browser at `http://localhost:8501`
 - Emergency resources
 - Useful health-related links
 
+Results:
+<img width="399" height="300" alt="1" src="https://github.com/user-attachments/assets/76b1390f-54f3-43e2-b0bc-0123168fa4a3" />
+<img width="398" height="405" alt="2" src="https://github.com/user-attachments/assets/74e4c5b1-d799-4aa0-868c-76b502a46603" />
+<img width="391" height="257" alt="3" src="https://github.com/user-attachments/assets/65ab1f53-89fb-434c-b33a-f0a5be8a4950" />
+
+
 ## Future Enhancements
 
 The app is designed to easily integrate:
@@ -62,6 +68,7 @@ This application provides general health information only and should not replace
 ## License
 
 © 2024 WellnessMate. All rights reserved.
+
 
 
 
