@@ -4,13 +4,13 @@ A clean and professional Streamlit application that provides bilingual health an
 
 ## Features
 
-- 🏥 **Professional Design**: Clean, minimal interface with modern styling
-- 🌐 **Bilingual Support**: Content available in both English and Telugu
-- 📋 **About Section**: Comprehensive explanation of the app's purpose and features
-- 🤖 **Chatbot Placeholder**: Ready for future AI health assistant integration
-- 💡 **Quick Health Tips**: Essential wellness advice in an easy-to-read format
-- ⚠️ **Medical Disclaimer**: Professional disclaimer in both languages
-- 📱 **Responsive Layout**: Works well on different screen sizes
+- **Professional Design**: Clean, minimal interface with modern styling
+- **Bilingual Support**: Content available in both English and Telugu
+- **About Section**: Comprehensive explanation of the app's purpose and features
+- **Chatbot Placeholder**: Ready for future AI health assistant integration
+- **Quick Health Tips**: Essential wellness advice in an easy-to-read format
+- **Medical Disclaimer**: Professional disclaimer in both languages
+- **Responsive Layout**: Works well on different screen sizes
 
 ## Installation
 
@@ -59,3 +59,4 @@ This application provides general health information only and should not replace
 ## License
 
 © 2024 WellnessMate. All rights reserved.
+
